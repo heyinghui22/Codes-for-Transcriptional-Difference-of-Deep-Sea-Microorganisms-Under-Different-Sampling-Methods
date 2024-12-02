@@ -6,13 +6,13 @@ This repository contains the code used in the study titled "Transcriptional Diff
 
 ## Content
 
-- **“Figures 1 and 2”** contains input datasets and code used for the folder, including the code for calculating and visualizing pCoA, the box plot of alpha diversity (calculated by QIIME software), and the stacked bar chart for microbial community composition (calculated by QIIME software). The extraction of 18S and 16S sequences can be referenced from [mitag_analysis](https://github.com/heyinghui22/mitag_analysis), which is currently in preparation for publication. Other calculations and parameters used have been detailed in the methods section.
+- **“Figures 1 and 2”** contains input datasets and code used for calculating and visualizing pCoA, the box plot of alpha diversity (calculated by QIIME software), and the stacked bar chart for microbial community composition (calculated by QIIME software). The extraction of 18S and 16S sequences can be referenced from [mitag_analysis](https://github.com/heyinghui22/mitag_analysis), which is currently in preparation for publication. Other calculations and parameters used have been detailed in the methods section.
 
-- **“Figures 3 and 5”** contains input datasets and code used for the folder, including the code for calculating the Pearson correlation coefficient, drawing the coefficient heatmap, as well as the heatmap and box plot of gene expression (calculated by CoverM software). Calculations and parameters used have been detailed in the methods section.
+- **“Figures 3 and 5”** contains input datasets and code used for calculating the Pearson correlation coefficient, drawing the coefficient heatmap, as well as the heatmap and box plot of gene expression (calculated by CoverM software). Calculations and parameters used have been detailed in the methods section.
 
-- **“Figure 4”** contains input datasets and code used for the folder, including the code for visualizing the stacked bar chart (calculated by COG classifier software) and the heatmap of gene expression (calculated by CoverM software). Calculations and parameters used have been detailed in the methods section.
+- **“Figure 4”** contains input datasets and code used for visualizing the stacked bar chart (calculated by COG classifier software) and the heatmap of gene expression (calculated by CoverM software). Calculations and parameters used have been detailed in the methods section.
 
-- **“Figure 6”** contains input datasets and code used for the folder, including the code for visualizing the stacked bar chart (calculated by CoverM software) and the heatmap of gene expression (calculated by CoverM software). Calculations and parameters used have been detailed in the methods section.
+- **“Figure 6”** contains input datasets and code used for visualizing the stacked bar chart (calculated by CoverM software) and the heatmap of gene expression (calculated by CoverM software). Calculations and parameters used have been detailed in the methods section.
 
 ## Folder structure
 
